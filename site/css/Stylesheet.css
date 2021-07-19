@@ -1,0 +1,15 @@
+h1 {
+color: darkgreen;
+font-style: italic;
+text-align: center;
+}
+
+h2 {
+color: darkred;
+font-weight: bold;
+text-align: right;
+}
+
+#iu {
+	color: orangered;
+}
